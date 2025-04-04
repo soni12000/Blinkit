@@ -8,3 +8,4 @@ Total Sales: Overall revenue generated from all items sold
 Average Sales: Average revenue per sale 
 Number of Items: Total count of different items sold 
 Average Rating: Average customer rating for items sold
+
